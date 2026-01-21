@@ -1,5 +1,14 @@
 # AWS Serverless Web Application using Terraform
 
+This project demonstrates the design and deployment of a fully serverless web application on AWS using Terraform (Infrastructure as Code). The application uses Amazon API Gateway, AWS Lambda, and Amazon DynamoDB to deliver a scalable and cost-effective solution without managing any servers.
+
+A simple HTML-based contact form is served through API Gateway. When a user submits the form, the request is processed by a Lambda function, which stores the submitted data in a DynamoDB table and then returns a success page to the user.
+
+Terraform is executed from an Amazon EC2 instance, which acts solely as a deployment and automation machine. Using Terraform, all AWS resources—including IAM roles, Lambda functions, API Gateway configuration, and DynamoDB tables—are provisioned, managed, and destroyed in a repeatable and automated manner.
+
+## Author
+Mouli S
+
 ## 🧭 OVERALL FLOW (Understand First)
 
 Your Laptop / Browser  
