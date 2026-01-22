@@ -168,7 +168,19 @@ terraform apply
 
 Type `yes`
 
+TERRAFORM INITIALIZED
 
+<img width="940" height="313" alt="image" src="https://github.com/user-attachments/assets/ea0a5c00-76a7-444c-857b-58d9cc946bf2" />
+
+
+TERRAFORM PLAN 
+
+<img width="910" height="468" alt="image" src="https://github.com/user-attachments/assets/02594943-fe63-461f-aaf4-f6a816e1a971" />
+
+
+TERRAFORM APPLY 
+
+<img width="940" height="310" alt="image" src="https://github.com/user-attachments/assets/0213bee4-6ad6-4c74-8300-3dd88649da59" />
 
 ---
 
@@ -184,6 +196,12 @@ invoke_url = https://xxxxx.execute-api.ap-south-1.amazonaws.com/dev
 - DynamoDB updated
 - Success page displayed
 
+<img width="637" height="340" alt="image" src="https://github.com/user-attachments/assets/785f3b9d-f157-4a79-8489-29c24fa56120" />
+
+
+<img width="634" height="329" alt="image" src="https://github.com/user-attachments/assets/96c31bea-e3bc-4940-8936-d5e86939c629" />
+
+
 
 ---
 
@@ -194,7 +212,9 @@ Check in AWS Console:
 - API Gateway
 - DynamoDB table `leetable`
 - IAM Role attached
+- 
 
+<img width="644" height="272" alt="image" src="https://github.com/user-attachments/assets/28e3eebc-7578-4d20-a2a0-4c6a0a07b5ac" />
 
 
 ---
@@ -210,8 +230,5 @@ Type `yes`
 
 ---
 
-<img width="1016" height="212" alt="image" src="https://github.com/user-attachments/assets/a0e95f5b-08cb-4d4b-9a53-bcca96551d68" />
-
-<img width="940" height="310" alt="image" src="https://github.com/user-attachments/assets/b284f0e6-41ff-4e3c-a344-337b046fa88b" />
 
 
