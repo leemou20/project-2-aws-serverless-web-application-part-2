@@ -209,3 +209,9 @@ Type `yes`
 
 
 ---
+
+<img width="1016" height="212" alt="image" src="https://github.com/user-attachments/assets/a0e95f5b-08cb-4d4b-9a53-bcca96551d68" />
+
+<img width="940" height="310" alt="image" src="https://github.com/user-attachments/assets/b284f0e6-41ff-4e3c-a344-337b046fa88b" />
+
+
